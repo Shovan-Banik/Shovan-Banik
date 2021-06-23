@@ -5,8 +5,8 @@
 - 📫 How to reach me :
 - Gmail: shovan15-7790@diu.edu.bd / shovanbanik3@gmail.com
 - Phone: 01794792728 / 01580376568
-- 
-- 
+- Facebook profile: https://www.facebook.com/shovan.banik.9
+- Linkedin profile: https://www.linkedin.com/in/shovan-banik-a3542a177/
 
 <!---
 Shovan-Banik/Shovan-Banik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
