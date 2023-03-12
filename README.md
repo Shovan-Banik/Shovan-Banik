@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shovan-Banik
 - 👀 I’m interested in JavaScript, React.js, WordPress, HTML, CSS.
-- 🌱 I’m currently learning JavaScript & React.js.
+- 🌱 I’m currently learning web developing at Programming Hero.
 - 💞️ I’m looking to collaborate on JavaScript and React.js based company.
 - 📫 How to reach me :
 - Gmail: shovan15-7790@diu.edu.bd / shovanbanik3@gmail.com
