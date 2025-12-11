@@ -8,7 +8,7 @@
 - Facebook profile: https://www.facebook.com/shovan.banik.9
 - Linkedin profile: https://www.linkedin.com/in/shovan-banik-a3542a177/
 - Portfolio-link: https://shovan-banik-portfolio.netlify.app/
-- Resume-link: [https://drive.google.com/file/d/1AFhxYWgV2r6Q2Ue6CfMCGF-sUp--bSR4/view?usp=sharing](https://drive.google.com/file/d/1yBR_m0TsQ72KnXDhIO90eAgYH3NqBa1L/view?usp=sharing)
+- Resume-link: https://drive.google.com/file/d/1HB-QTn23f0sF-WLM1Y7_51PDgxmvLpyB/view?usp=sharing
 
 <!---
 Shovan-Banik/Shovan-Banik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
